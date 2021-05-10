@@ -2,7 +2,7 @@
 Eine kommende League of Legends App geschrieben in c++ und js.
 Dies ist nur ein Prototyp und noch lange nicht funktionsfähig.
 
-http://lantern.lol (kein SSL-Zertifikat)
+http://lantern.lol
 
 **Lobby**
 - Menu
